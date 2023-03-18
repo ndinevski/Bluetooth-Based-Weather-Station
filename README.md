@@ -1,2 +1,2 @@
 # Bluetooth Based Weather Station
- Project
+ Research paper @ FSCE Skopje
